@@ -10,6 +10,8 @@ According to the findings of the Pyber rideshare study, there was a broad variet
  
 
 3.	Summary: 
-While the rides in large centers generate more income, the rides in rural cities are more profitable. As a result, I'd concentrate on increasing the profitability of metropolitan city journeys.
-I believe that the number of drivers in urban areas should be reduced. There are 2,405 drivers, however only 1,625 rides were completed. Because of this, not every driver has completed at least one ride. Reducing the number of drivers will raise the average fare per driver, which is currently 3.4 times lower than in rural cities.
-Additional ride time analysis is required. Calculating the average fare per minute or per kilometer and comparing the figure among city types may be instructive. If the fee for a one-minute ride in rural cities is much greater than in urban cities, the ride fare for urban city types may be increased. It contributes to raising the average fare per journey in metropolitan areas and generating additional cash.
+* While the rides in large centers generate more income, the rides in rural cities are more profitable. As a result, I'd concentrate on increasing the profitability of metropolitan city journeys.
+
+* I believe that the number of drivers in urban areas should be reduced. There are 2,405 drivers, however only 1,625 rides were completed. Because of this, not every driver has completed at least one ride. Reducing the number of drivers will raise the average fare per driver, which is currently 3.4 times lower than in rural cities.
+
+* Additional ride time analysis is required. Calculating the average fare per minute or per kilometer and comparing the figure among city types may be instructive. If the fee for a one-minute ride in rural cities is much greater than in urban cities, the ride fare for urban city types may be increased. It contributes to raising the average fare per journey in metropolitan areas and generating additional cash.
